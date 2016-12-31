@@ -1,6 +1,6 @@
 # Winter Soulstice Concert RSVP App.
-###My first application built with PHP.
-Used for a January 2016 concert at BackBooth Lounge, Orlando, FL
+###My first PHP based mobile app.
+Used for a January 2016 concert at BackBooth Lounge, Orlando, FL.
 
 # Install
 clone the repo
@@ -14,5 +14,8 @@ running your local apache server visit the project's location. EX:
 http://localhost:8080/winter-soulstice/index.php
 ```
 
-## Ported over from Cloud9 project
-visit live project here -> [https://wintersoulstice-ptlergo.c9users.io/](https://wintersoulstice-ptlergo.c9users.io/)
+# Details
+styled with bootstrap. Best viewed on mobile devices.
+
+## Ported over from Cloud9 [project](https://wintersoulstice-ptlergo.c9users.io/)
+visit live project here -> [https://winter-soulstice.herokuapp.com/](https://winter-soulstice.herokuapp.com/)
