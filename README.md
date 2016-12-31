@@ -1,5 +1,5 @@
 # Winter Soulstice Concert RSVP App.
-RSVP application built with PHP/CodeIgniter.
+###RSVP application built with PHP and MVC Architecture.
 Used for a January 2016 concert at BackBooth Lounge, Orlando, FL
 
 # Install
