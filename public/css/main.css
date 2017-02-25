@@ -102,7 +102,18 @@ header
     position: absolute;
     left: 0px;
     top: 0px;
-    
+
+}
+@media screen and (min-width: 768px) {
+  /*DESKTOP CENTERED*/
+  #snowflakeContainer {
+      position: absolute;
+      margin: 0 auto;
+      left: 15%;
+      top: 0px;
+      width: 30%;
+      right: 15%;
+  }
 }
 .snowflake {
     padding-left: 15px;
@@ -117,5 +128,3 @@ header
 .snowflake:hover {
     cursor: default;
 }
-
-    
