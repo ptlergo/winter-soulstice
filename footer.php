@@ -11,7 +11,7 @@
 					<div class="col-xs-12 col-sm-12 col-md-12" style="text-align: center; margin-top: 3%; margin-bottom:0; padding-bottom:0; ">
 						<p style="font-style: italic">powered by<p>
 						<a href="#"><img src="images/hello-logo.png" alt="hello-logo"></img></a>&nbsp;&nbsp;&nbsp;
-						<a href="https://www.instagram.com/eightpounds/"><img src="images/8lb-avatar.svg" alt="hello-logo" width="10%"></img></a>
+						<a href="https://www.instagram.com/eightpounds/"><img src="images/8lb-avatar.svg" alt="hello-logo" width="20%"></img></a>
 					</div>
 				</div>
 			</div>
