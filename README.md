@@ -1,5 +1,5 @@
 # Winter Soulstice Concert RSVP App.
-###My first PHP based mobile app.
+### My first PHP based mobile-first web app.
 
 # Details
 Mobile first design styled with bootstrap using codeigniter php framework.
