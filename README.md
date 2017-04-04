@@ -1,4 +1,4 @@
-![winter-soulstice](https://github.com/ptlergo/winter-soulstice/tree/master/images/winter-title.png)
+![winter-soulstice](http://github.com/ptlergo/winter-soulstice/blob/master/images/winter-title.png)
 
 # Winter Soulstice Concert RSVP App.
 ### My first PHP based mobile-first web app.
